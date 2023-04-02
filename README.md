@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Emma Persinger (pronouns: she/her) and I am a graduate student at Emporia State University and a Program Evaluator/Management Analyst working in child welfare.
+
 
 <!--
 **epersing/epersing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
