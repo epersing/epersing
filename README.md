@@ -1,14 +1,20 @@
-### Hi there 👋
+### Hey y'all 👋
 
 A bit about me:
-  - Pronouns: she/her
-  - :student: Informatics graduate student at ESU
-  - :office_worker: Full-time Program Evaluator/Management Analyst working in child welfare
-  - 
-
-
-I have a passion for data analytics and making information usable by all levels of people.
-
+  - ✨ Pronouns: she/her
+  - ✏ Informatics graduate student at ESU
+  - 🏢💼 Full-time Program Evaluator/Management Analyst working in child welfare
+  - 💻 T-SQL enthusiast (using SMSS) making the switch to PL/SQL to use Oracle SQL Developer
+  - 🧠 Working on my R and SPSS skills
+  - 💞 Passionate about data analytics and making information usable by all levels of people.
+ 
+ You can reach me at epersing@g.emporia.edu
+  
+Other fun facts
+  - 🐈🐈‍⬛ Proud mother of two fur babies
+  - 🥣🍪 Love to cook and bake
+  - 🎮 Favorite games include Assassins Creed Odyssey, Stardew Valley, Skyrim, and My Time at Portia
+  - 🧵 Currently learning to sew
 
 
 
