@@ -1,5 +1,15 @@
 ### Hi there 👋
-My name is Emma Persinger (pronouns: she/her) and I am a graduate student at Emporia State University and a Program Evaluator/Management Analyst working in child welfare.
+
+A bit about me:
+  - Pronouns: she/her
+  - :student: Informatics graduate student at ESU
+  - :office_worker: Full-time Program Evaluator/Management Analyst working in child welfare
+  - 
+
+
+I have a passion for data analytics and making information usable by all levels of people.
+
+
 
 
 <!--
